@@ -12,7 +12,7 @@ DevOps Engineer, Full Stack Developer and Game Enthusiast :video_game:
 
 ## Personal Links :computer:
 
-[![YouTube](https://img.shields.io/youtube/channel/views/:UCAeP4Lt4CyvqBs7req0M6dA)](https://www.youtube.com/@seamlesslofi)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@seamlesslofi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seamlessworkshop)
 
 ## Favorite Technologies :robot:
