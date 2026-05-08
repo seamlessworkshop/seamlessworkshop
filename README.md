@@ -3,20 +3,22 @@
 </p>
 
 <h2 align="center" display: inline>
-Hey! I'm Zac!
+Hey! I'm Zac! / こんにちは！ザックです！
 </h2>
 
 <h3 align="center">
-DevOps Engineer, Full Stack Developer and Entrepreneur :video_game:
+DevOps Engineer, Full Stack Developer and Entrepreneur
+<br>
+DevOpsエンジニア・フルスタック開発者・起業家 :video_game:
 </h3>
 
-## Personal Links :computer:
+## Personal Links / 個人リンク :computer:
 
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:seamlesslofi@pm.me)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@seamlesslofi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seamlessworkshop)
 
-## Favorite Technologies :robot:
+## Favorite Technologies / 好きな技術 :robot:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -31,7 +33,9 @@ DevOps Engineer, Full Stack Developer and Entrepreneur :video_game:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Who Am I? :raising_hand:
+## Who Am I? / 自己紹介 :raising_hand:
+
+### English
 
 Welcome to my GitHub! :wave:
 
@@ -39,7 +43,19 @@ I'm a Full Stack Developer, DevOps Engineer, and AI Entrepreneur with a passion 
 
 I graduated in 2022 with a Bachelor's degree in Computer Science :mortar_board: and have been focused on combining software engineering, automation, AI, and creative media into projects.
 
-This GitHub account serves as the home for my personal projects, experiments, tools, infrastructure setups, and open-source work.. :headphones:
+This GitHub account serves as the home for my personal projects, experiments, tools, infrastructure setups, and open-source work. :headphones:
+
+---
+
+### 日本語
+
+GitHubへようこそ！ :wave:
+
+私は、クリエイティブなプロジェクト開発に情熱を持つフルスタック開発者・DevOpsエンジニア・AI起業家です。 :tiger:
+
+2022年にコンピューターサイエンスの学士号を取得し :mortar_board:、ソフトウェアエンジニアリング、自動化、AI、そしてクリエイティブメディアを組み合わせたプロジェクトに取り組んでいます。
+
+このGitHubアカウントでは、個人プロジェクト、実験、ツール、インフラ構築、そしてオープンソース活動を公開しています。 :headphones:
 
 ---
 
