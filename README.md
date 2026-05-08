@@ -51,7 +51,7 @@ This GitHub account serves as the home for my personal projects, experiments, to
 
 GitHubへようこそ！ :wave:
 
-私は、クリエイティブなプロジェクト開発に情熱を持つフルスタック開発者・DevOpsエンジニア・AI起業家です。 :tiger:
+僕は、クリエイティブなプロジェクト開発に情熱を持つフルスタック開発者・DevOpsエンジニア・AI起業家です。 :tiger:
 
 2022年にコンピューターサイエンスの学士号を取得し :mortar_board:、ソフトウェアエンジニアリング、自動化、AI、そしてクリエイティブメディアを組み合わせたプロジェクトに取り組んでいます。
 
