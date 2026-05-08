@@ -12,8 +12,8 @@ DevOps Engineer, Full Stack Developer and Game Enthusiast :video_game:
 
 ## Personal Links :computer:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/354527381379350529)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjorge96)
+[![YouTube](https://img.shields.io/youtube/channel/views/:UCAeP4Lt4CyvqBs7req0M6dA)](https://www.youtube.com/@seamlesslofi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seamlessworkshop)
 
 ## Favorite Technologies :robot:
 
