@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center" display: inline>
-Hey! I'm Zac! / こんにちは！ザックです！
+Hey! I'm Zac! / やっほー！ザックです！
 </h2>
 
 <h3 align="center">
